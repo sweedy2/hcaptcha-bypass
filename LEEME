@@ -1,0 +1,23 @@
+Este programa ha sido desarrollado con el objetivo de verificar si una lista de correos amplia de personales propios está registrada o no. El programa utiliza un sistema automatizado para saltar el hCaptcha con fines educativos y de aprendizaje sobre la automatización de procesos. **No está diseñado ni destinado para ningún uso malintencionado.**
+
+## ⚠️ Importante
+
+El propósito de este programa es **exclusivamente educativo**. Su única función es comprobar si las direcciones de correo que tú posees, o que te han sido proporcionadas de manera legítima, están registradas o no. No se debe utilizar este programa con fines maliciosos ni para actividades ilegales.
+
+### Uso responsable
+
+Si decides utilizar este programa, debes hacerlo de manera ética y respetuosa. El uso indebido de herramientas como esta puede tener repercusiones legales, y **no nos hacemos responsables** de las consecuencias derivadas de un mal uso. El usuario es **completamente responsable** de las acciones realizadas con el programa.
+
+## Funcionalidad
+
+El programa realiza lo siguiente:
+
+- Carga una lista de correos electrónicos personales desde un archivo `emails.txt`.
+- Verifica cuáles de esos correos están registrados en **Epic Games**.
+- Genera dos archivos en la carpeta `results/`:
+  - `registered.txt` para los correos registrados.
+  - `unregistered.txt` para los correos no registrados.
+  
+## Descargo de responsabilidad
+
+Este software está **estrictamente prohibido** para ser utilizado en cualquier actividad que viole las políticas de **Epic Games**, las leyes de privacidad de datos o cualquier otro uso que involucre el abuso de cuentas de usuarios. El objetivo es **aprender sobre automatización** y **no tiene la intención** de ser utilizado en prácticas deshonestas. El uso malintencionado queda fuera de nuestra responsabilidad y podría tener repercusiones legales.
