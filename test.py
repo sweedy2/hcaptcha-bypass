@@ -42,7 +42,7 @@ def load_proxies(file_name="proxies.txt"):
     return proxies
 
 def extract_email_from_line(line):
-    """Extrae solo el correo electrónico de una línea que puede contener también la contraseña"""
+    """Extrae solo el correo electrónico"""
     match = re.search(r'[\w\.-]+@[\w\.-]+\.\w+', line)
     if match:
         return match.group(0)
