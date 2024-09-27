@@ -1,0 +1,23 @@
+This program has been developed with the aim of verifying whether a large list of your own personal emails is registered or not. The program uses an automated system to bypass hCaptcha for educational purposes and to learn about process automation. **It is not designed or intended for any malicious use.**
+
+## ⚠️ Important
+
+The purpose of this program is **strictly educational**. Its sole function is to check whether the email addresses you own, or that have been legitimately provided to you, are registered or not. This program should not be used for malicious purposes or illegal activities.
+
+### Responsible Use
+
+If you choose to use this program, you must do so ethically and responsibly. Misuse of tools like this can have legal consequences, and **we are not responsible** for any consequences resulting from improper use. The user is **fully responsible** for any actions taken with this program.
+
+## Functionality
+
+The program performs the following:
+
+- Loads a list of personal email addresses from an `emails.txt` file.
+- Verifies which of those emails are registered with **Epic Games**.
+- Generates two files in the `results/` folder:
+  - `registered.txt` for registered emails.
+  - `unregistered.txt` for unregistered emails.
+
+## Disclaimer
+
+This software is **strictly prohibited** from being used in any activity that violates **Epic Games'** policies, data privacy laws, or any other use that involves the abuse of user accounts. The purpose is **to learn about automation**, and **it is not intended** to be used in dishonest practices. Malicious use is outside our responsibility and could have legal repercussions.
